@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    margin-left: 0px;
+    background-color: aliceblue;
+}
+#menu{
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    background-color: rgba(2, 14, 7, 0.938);
+    width: 100%;
+}
+.link{
+    display: inline;
+    padding-right: 30px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: rgb(242, 245, 248);
+    text-decoration: solid;
+}
+.link:hover{
+    font-size: 30px;
+    
+}
+#ab{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#home{
+    margin-top: 50px;
+    background-image: linear-gradient(to bottom right,red,white,green);
+}
+#home img{
+    border-radius: 50%;
+}
+.line{
+    height: 6px;
+    background-color:green;
+    margin: auto;
+    margin-top: 10px;
+}
